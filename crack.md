@@ -1,20 +1,23 @@
-Note: <br />
+# Note
 本教程对G7任何版本起作用，包括没有Root的设备，V30/35/40理论可用。 <br />
 本教程的排列方式为英文字母ABCDEFGH排序而不是选择题 <br />
-本教程来自 [查看链接🔗](https://forum.xda-developers.com/lg-g7-thinq/how-to/tutorial-install-korean-pie-kdz-g7-t3892700)  汉化来自@机智哒如如 由我修改发布[小嘴滑稽] <br />
+本教程来自 [查看链接🔗](https://forum.xda-developers.com/lg-g7-thinq/how-to/tutorial-install-korean-pie-kdz-g7-t3892700)  汉化来自@机智哒如如 由我修改发布 <br />
+
  <br />
 ⚠如果你的设备是在**淘宝换U Root**后刷韩版Pie, 为了不翻车请提前在Fastboot刷好Pie的Rooted Boot⚠ <br />
  <br />
 ⚠如果你的设备是Root后刷其他版本的固件, 为了不翻车请提前在Fastboot刷好该固件的Rooted Boot⚠ <br />
  <br />
 ⚠如果你的设备是欧版Root刷韩版Pie, 为了不翻车请提前在Fastboot刷好root过的Boot⚠ <br />
-------------
-开始！ <br />
+
+
+
+# 开始!
  <br />
 ## A:
 下载/安装/准备 以下 文件/软件 <br />
 ¤ IDA 7.0 Pro 破解版 <br />
-¤ LG UP破解版 <br />
+¤ LG UP (原版) <br />
 ¤ Notepad++ <br />
 ‖ 自己机型的DLL <br />
 ‖ LMG71020C固件KDZ <br />

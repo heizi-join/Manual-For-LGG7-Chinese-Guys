@@ -50,6 +50,7 @@
 -顶部工具栏Debugger选项(截图紫框处)中找到Breakpoints后选择Add points弹出界面后单击OK <br />
 -单击绿色播放按钮后等待弹窗单击OK <br />
 -单击绿色播放按钮后单击Yes后单击OK <br />
+
 ## F
 -用“Notepad++”打开“LG UP安装目录/Model/Common/UI_Config.lgl” <br />
 -找到`<PROCESS strName="PARTITION DL"……`下方的
@@ -57,13 +58,16 @@
 -把`=“Dev”`更成 `=“LAB|Store|Dev|3rdParty” `<br />
 -保存 不要关闭Notepad++ 切换到IDA <br />
 -单击左上角绿色播放按钮弹出LG UP界面后继续 <br />
+#### Note
+如果找不到lgl文件重复步骤“E”
+
 ## G
 -Process选择PARTITION DL模式 <br />
 -选择要刷的KDZ <br />
 -点击下方Start <br />
 -勾选Select All 单击OK <br />
 **-如果你是Root设备，(请在刷入Rooted Boot后)解除boot_a和boot_b的勾选** <br />
-### Note
+#### Note
 出现Warning警告窗口 <br />
 -单击OK <br />
 -单击绿色播放按钮**快捷键F9** <br />

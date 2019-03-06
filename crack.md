@@ -1,25 +1,30 @@
 # 用IDA破解LG UP混刷KDZ教程
 本教程对G7任何版本起作用，包括没有Root的设备，V30/35/40理论可用。 <br />
 本教程的排列方式为英文字母ABCDEFGH排序而不是选择题 <br />
-本教程来自 [查看链接🔗](https://forum.xda-developers.com/lg-g7-thinq/how-to/tutorial-install-korean-pie-kdz-g7-t3892700)  汉化来自@机智哒如如 由我修改发布 <br />
-## 注意事项
- <br />
-⚠如果你的设备是在**淘宝换U Root**后刷韩版Pie, 为了不翻车请提前在Fastboot刷好Pie的Rooted Boot⚠ <br />
-⚠没换过U的T版慎刷，到时候8要怪我没提醒过⚠ <br />
+本教程来自 [查看链接🔗](https://forum.xda-developers.com/lg-g7-thinq/how-to/tutorial-install-korean-pie-kdz-g7-t3892700)  汉化来自@机智哒如如 由我修改发布
+## 风险警告
+⚠Warning 风险在向你靠近⚠<br />
+⚠不建议主力机、上班族、穷困精准扶贫人口、动手能力不强、超级小白、脾气暴躁等人群自行刷机二哈，虽然风险很小但是无处不在，二哈我不能保证每一个抠脚的人不会应为抠脚导致病毒感染而死。⚠<br />
+⚠步骤G时，为了省下不必要的资金浪费，请不要在刷机过程中断开连接。⚠<br />
 
-# 开始!
+# 正题
 开始作死吧！ <br />
+## 注意事项
+如果你的设备是在**淘宝换U Root**后刷韩版Pie, 为了不翻车请提前在Fastboot刷好Pie的Rooted Boot。 <br />
+没换过U的T版慎刷，到时候8要怪我没提醒过<br />
 ## A
 下载/安装/准备 以下 文件/软件 <br />
 ¤ IDA 7.0 Pro 破解版 <br />
 ¤ LG UP (原版) <br />
 ¤ Notepad++ <br />
 ‖ 自己机型的DLL <br />
-‖ LMG71020C固件KDZ <br />
+‖ 自己的要刷的KDZ <br />
 ※ 将手机调到Download模式 <br />
 以上均能从百度/谷歌上找到 <br />
-KDZ待会再搬运，请持续关注看看号 <br />
- <br />
+
+#### DLL
+-用[这个软件](https://www.lanzous.com/i3aj9cd?t)解开KDZ的LGUPc.dll即可获得该KDZ的DLL <br />
+-DLL正确路径为`LGUP安装文件夹/model/common/LGUP_Common.dll` <br />
 ## B
 以管理员打开IDA64后步骤如下 <br />
 -单击New <br />
@@ -33,16 +38,16 @@ KDZ待会再搬运，请持续关注看看号 <br />
 -如果出现选择PDB文件窗口，点击取消。 <br />
 -喝口水等待加载完成出现进程树 <br />
 ## D
-![截图](/2.png) <br />
--在工具栏右侧将“no debugger”选项改成“local windows debugger” <br />
--单击选项的左侧绿色播放按钮后选择Yes <br />
+![截图2](/2.png) <br />
+-在工具栏右侧将“no debugger”选项改成“local windows debugger” (截图蓝框处)<br />
+-单击选项的左侧绿色播放按钮(截图红框处)后选择Yes <br />
 -等待弹出Warning警告弹窗后继续下一步 <br />
 -单击左上角绿色播放按钮后选择Yes <br />
 -等待弹出LG UP窗口后将其关闭 <br />
 ## E
--按住ALT+T或在顶部工具栏Search选项中找到Text <br />
+-按住ALT+T或在顶部工具栏Search(截图绿框处)选项中找到Text <br />
 -输入“.lgl”后单击OK <br />
--顶部工具栏Debugger选项中找到Breakpoints后选择Add points弹出界面后单击OK <br />
+-顶部工具栏Debugger选项(截图紫框处)中找到Breakpoints后选择Add points弹出界面后单击OK <br />
 -单击绿色播放按钮后等待弹窗单击OK <br />
 -单击绿色播放按钮后单击Yes后单击OK <br />
 ## F

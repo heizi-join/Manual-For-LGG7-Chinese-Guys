@@ -29,47 +29,40 @@ KDZ待会再搬运，请持续关注看看号 <br />
 **假装我是个截图** <br />
 **假装我是个截图** <br />
 **假装我是个截图** <br />
-Note: <br />
-如果不顺利的话会跳出个框让你选文件，随便选一个你喜欢的目录就好了，不是很讲究。 <br />
- <br />
-C: <br />
+### Note
+如果不顺利的话会跳出个框让你选文件，随便选一个你喜欢的目录就好了，不是很讲究。
+## C
 -如果出现选择PDB文件窗口，点击取消。 <br />
 -喝口水等待加载完成出现进程树 <br />
- <br />
-D:
+## D
 -在工具栏右侧将“no debugger”选项改成“local windows debugger” <br />
 -单击选项的左侧绿色播放按钮后选择Yes <br />
 -等待弹出Warning警告弹窗后继续下一步 <br />
 -单击左上角绿色播放按钮后选择Yes <br />
 -等待弹出LG UP窗口后将其关闭 <br />
- <br />
-E:
+## E
 -按住ALT+T或在顶部工具栏Search选项中找到Text <br />
 -输入“.lgl”后单击OK <br />
 -顶部工具栏Debugger选项中找到Breakpoints后选择Add points弹出界面后单击OK <br />
 -单击绿色播放按钮后等待弹窗单击OK <br />
 -单击绿色播放按钮后单击Yes后单击OK <br />
- <br />
-F: <br />
+## F
 -用“Notepad++”打开“LG UP安装目录/Model/Common/UI_Config.lgl” <br />
 -将36行的=“Dev”改为=“LAB|Store|Dev|3rdParty”
 -保存 不要关闭Notepad++ 切换到IDA <br />
 -单击左上角绿色播放按钮弹出LG UP界面后继续 <br />
- <br />
-G: <br />
+## G
 -Process选择PARTITION DL模式 <br />
 -选择要刷的KDZ <br />
 -点击下方Start <br />
 -勾选Select All 单击OK
 **如果你是Root设备，(请在刷入Rooted Boot后)解除boot_a和boot_b的勾选** <br />
- <br />
-G-Note: <br />
+### Note
 出现Warning警告窗口 <br />
 -单击OK <br />
 -单击绿色播放按钮**快捷键F9** <br />
 -单击Yes <br />
 疯狂重复以上步骤直到警告弹窗停歇 <br />
- <br />
-H: 
+# H
 完了，享受刷完的新固件吧！ <br />
 有什么问题欢迎加入“LG G7 ThinQ 垃圾佬快活群”和我们讨论一下

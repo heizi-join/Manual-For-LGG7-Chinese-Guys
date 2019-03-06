@@ -52,7 +52,10 @@
 -单击绿色播放按钮后单击Yes后单击OK <br />
 ## F
 -用“Notepad++”打开“LG UP安装目录/Model/Common/UI_Config.lgl” <br />
--将36行的=“Dev”改为=“LAB|Store|Dev|3rdParty”
+-找到<PROCESS strName="PARTITION DL"……下方的
+`<SUPPORT strUser=“Dev” /> `（Ctrl+F搜索 输入PARTITION DL搜索即可）
+-把  =“Dev” 
+更成 =“LAB|Store|Dev|3rdParty”
 -保存 不要关闭Notepad++ 切换到IDA <br />
 -单击左上角绿色播放按钮弹出LG UP界面后继续 <br />
 ## G

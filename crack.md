@@ -61,8 +61,8 @@
 -Process选择PARTITION DL模式 <br />
 -选择要刷的KDZ <br />
 -点击下方Start <br />
--勾选Select All 单击OK
-**如果你是Root设备，(请在刷入Rooted Boot后)解除boot_a和boot_b的勾选** <br />
+-勾选Select All 单击OK <br />
+**-如果你是Root设备，(请在刷入Rooted Boot后)解除boot_a和boot_b的勾选** <br />
 ### Note
 出现Warning警告窗口 <br />
 -单击OK <br />
@@ -71,4 +71,4 @@
 疯狂重复以上步骤直到警告弹窗停歇 <br />
 # H
 完了，享受刷完的新固件吧！ <br />
-有什么问题欢迎加入“LG G7 ThinQ 垃圾佬快活群”和我们讨论一下
+有什么问题欢迎加入“[LG G7 ThinQ 垃圾佬快活群](https://jq.qq.com/?_wv=1027&k=5KEkuSU)”和我们讨论一下

@@ -10,7 +10,7 @@
 # 开始作死！
 [❤点❤我❤看❤视❤频❤教❤程❤](https://www.bilibili.com/video/av45261978/#reply1436800150)
 
-## 注意事项
+### 注意事项
 如果你的设备是在**淘宝换U Root**后刷韩版Pie, 为了不翻车请提前在Fastboot刷好Pie的Rooted Boot。 <br />
 **没换过U的T版慎刷**，到时候8要怪我没提醒过<br />
 ## A

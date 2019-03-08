@@ -25,7 +25,9 @@
 
 #### DLL
 -用[这个软件](https://www.lanzous.com/i3aj9cd?t)解开KDZ的LGUPc.dll即可获得该KDZ的DLL <br />
--DLL正确路径为`LGUP安装文件夹/model/common/LGUP_Common.dll` <br />
+-路径为`LGUP安装文件夹/model/common/LGUP_Common.dll` <br />
+-如果没有Common文件夹自行创建
+-一般Common文件夹是隐藏的，建议关闭LGUP再更改。
 ## B
 以管理员打开IDA64后步骤如下 <br />
 -单击New <br />

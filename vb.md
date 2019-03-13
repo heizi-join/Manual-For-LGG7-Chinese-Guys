@@ -1,15 +1,19 @@
 # 型号整理
 ###### 可以用浏览器`查找` 功能快速查找关键字`快捷键Ctrl+F` <br />
+###### `-`为未知/无
+###### `X`为不可用 <br />
 
 |型号|版本|移动|联通|电信|备注|
 | -----: | :----- | :-----: | :-----: | :-----: | :-----: |
 |LMG710ULM|美国公开版|-|-|-|-|
-|LMG710PM|美国Sprint版|X|4G|4G|-|
-|LMG710VM|美国Verzion版|X|4G|4G|-|
-|LMG710V|美国Verzion版|X|4G|4G|-|
-|LMG710TM|美国T-Mobile版|X|4G|4G|电信只能上网|
-|LMG710TMP|美国T-Mobile版|-|-|-|-|
-|LMG710TMR|美国T-Mobile版|-|-|-|-|
+|LMG710PM|美国Sprint版|-|4G|-|-|
+|LMG710VM|美国Verzion版|-|4G|-|-|
+|LMG710V|美国Verzion版|-|4G|-|-|
+|LMG710VMX|美国U.S.Cellular版|-|4G|-|-|
+|LMG710VMP|美国U.S.Cellular版|-|4G|-|-|
+|LMG710TM|美国T-Mobile版|-|4G|4G|电信只能上网|
+|LMG710TMP|美国T-Mobile版|-|4G|4G|电信只能上网|
+|LMG710TMR|美国T-Mobile版|-|4G|4G|电信只能上网|
 |LMG710N|韩版|4G|4G|X|-|
 |LMG710NO|韩版|-|-|-|-|
 |LMG710NP|韩版|-|-|-|-|

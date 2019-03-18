@@ -6,10 +6,10 @@
 ## 正题
 
 ### 要求
-	- A linux box (推荐Debian) (虚拟机也可以)
-	- 20G空间
-	- 一些工具: `abootimg` `repo` `m4` `bison` `flex build-essential`  (Debian)
-	- ccache (Even though this is fully optional)(黑字:看不懂？)
+linux(推荐Debian) (虚拟机也可以) <br />
+20G空间 <br />
+一些工具 `abootimg` `repo` `m4` `bison` `flex build-essential`  (Debian) <br />
+ccache  (Even though this is fully optional)(黑字:看不懂？) <br />
 	
 
 ### getting the required files

@@ -12,7 +12,7 @@ linux(推荐Debian) (虚拟机也可以) <br />
 ccache  (Even though this is fully optional)(黑字:看不懂？) <br />
 	
 
-### getting the required files
+### 文件
 The guide from [Dees_troy is prett straighforward.](https://forum.xda-developers.com/showthread.php?t=1943625) That's why I oriented myself on this one.
 
 I'd recommend using the minimal manifest as this is enough to build twrp properly.

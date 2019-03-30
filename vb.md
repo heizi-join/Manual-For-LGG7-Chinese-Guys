@@ -8,10 +8,10 @@
 | -----: | :----- | :-----: | :-----: | :-----: | :-----: |
 |LMG710ULM|美国公开版|4G|4G|4G|移动band41|
 |LMG710PM|美国Sprint版|4G|4G|4G|移动band41|
+|LMG710VMP|美国Verzion版|X|4G|4G|-|
 |LMG710VM|美国Verzion版|X|4G|4G|-|
 |LMG710V|美国Verzion版|X|4G|4G|-|
 |LMG710VMX|美国U.S.Cellular版|X|4G|4G|-|
-|LMG710VMP|美国U.S.Cellular版|X|4G|4G|-|
 |LMG710TM|美国T-Mobile版|-|4G|4G|电信只能上网|
 |LMG710TMP|美国T-Mobile版|-|4G|4G|电信只能上网|
 |LMG710TMR|美国T-Mobile版|-|4G|4G|电信只能上网|

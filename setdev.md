@@ -19,7 +19,7 @@ T版没换U的别上车了。求求你们别问“硬解的教程”了。换U�
 ## 右键以管理员模式运行脚本（事先关闭所有打开中的LGUP）
 > 运行SetDev.bat就会开启大师难度的LG UP
 [![](https://img.xda-cdn.com/Bpl-2x4cAQ_LE2T8s072_rYgKxg=/https%3A%2F%2Flh3.googleusercontent.com%2F62FokjtplQaQgCAR4Trhn_xzu5uekRevnGWGHZ74Rx2AsGsm3bNV5-MaaEN4iy-47spgjIKVAyNglh1Roh2li_hCjYpj_u1h1-1rbi0M8_rxZ7hDNdpNNeTF1Ti5qCqzK7eSY_7lhlwEkEDNDxyqDZDw1sRzrmJJqeIT41Rr1XXeTK0PFTN3cFCG_T8OI5AiSEXJ7I-zVhcVIkZGvR8FAL2D-kOOE2F5oPDYDs9Kni89tis3bNvtzYNymTzjpe9qyQvI1asGYTd-Q2oHtY411QDttlJ7HbtiEq7eUUW5gErDKxYUwnlNW5Gst8FO4vwjpK6PH4uZ2_QyqkOftQnxxRR0ehXLlg4pRhNdm4q2jCO8i-Av2Jg63-1SxLoUu1UbS0KMahF37GKjmfIZ4UjdGRzjfA5xL_xj0U5KV9IziJnUqCTUsha9bMsNA6DxOOUzDm7xWOfqVfqBr69bSTG--13N7A432pEv-ytcc5w__hvHt6QNaANp3QM-8DQSjKoLEHH-WxBEl_pA267Sekow10Zb4jJfR0WZeYLWb6K0umuL4qrD6CAcX5uMqbtlfdSN-MOI3OlDDeUSeIr6l-FOHRLjfr2UttArQzLAx_HQkuQD232jS1kh4clPPlt-aQKBgJ8nHjxPjlUOHze9lsD9AdmDmnHBEaKt%3Dw675-h488-no)](https://jq.qq.com/?_wv=1027&k=5KEkuSU)
-有你们想要的PARTITION DL模式、Dump(备份）模式等等等等
+<br />有你们想要的PARTITION DL模式、Dump(备份）模式等等等等
 
 > 运行SetUser.bat就和现在的你一样平平无奇(逃
 

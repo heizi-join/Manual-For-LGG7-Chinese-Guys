@@ -1,7 +1,7 @@
 # 编译TWRP教程
 
 ## 介绍
-编译LG G7的TWRP比其他的设备要难上一点，因为TWRP不在Recovery分区，而是直接写在了Boot映像里。当用正常的方式进入Recovery模式时，用的是Boot里面的Ramdisk，而不是/System。所以这个教程是**教你如何把TWRP写进Boot里面**。
+编译LG G7的TWRP比其他的设备要难上一点，因为TWRP不在System分区，而是直接写在了Boot映像里。当用正常的方式进入Recovery模式时，用的是Boot里面的Ramdisk，而不是/System。所以这个教程是**教你如何把TWRP写进Boot里面**。
 
 ## 正题
 
